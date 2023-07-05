@@ -1,4 +1,5 @@
 # Gorchanin Dmitriy
+<img src="image.png" alt="Photo" width="275"/>
 
 ## How to contact me
 * Mobile phone: +375 44 xxx xx-73
@@ -24,7 +25,9 @@ I am second graduate student in Belarusian-Russian university with huge willing 
 * Puncuality
 * Responsibility
 * Altruism
-
+ 
+### English Level
+Upper-Intermediate (B2)
 ## Code Example
 
     namespace Model.Serialization
