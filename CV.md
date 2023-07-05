@@ -62,8 +62,18 @@ EPAM training center
 01/2022-05/2022
 
 ## Projects
-| Name | Description | Technologies 
-|------|-------------|--------------
-|Project Enrollee|This program targets to fractionally simplify the proccess of documents submission in university|JavaScript, Bootstrap, C#, ASP.NET, Microsoft Office Interop|
-|Document Scanner|This program scans passport or it alternatives and shows all neccessary data about it handler|C#, IronOCR library|
-|PC hardware configurator|This application helps user in computer hardware's selection. It checks components' compatibility and divides issues into two levels: major and warning|React, NodeJS, PostgreSQL (TBD)|
+### Project Enrollee
+
+This program targets to fractionally simplify the proccess of documents submission in university.
+
+Technologies: JavaScript, Bootstrap, C#, ASP.NET, Microsoft Office Interop
+### Document Scanner 
+
+This program scans passport or it alternatives and shows all neccessary data about it handler
+
+Technologies: C#, IronOCR library
+### (In progress) Personal computer hardware configurator
+
+This web-application helps user in personal computer hardware's selection. It checks components' compatibility and divides issues into two levels: major and warning
+
+Technologies: React, NodeJS, PostgreSQL
