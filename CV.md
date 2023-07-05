@@ -7,10 +7,10 @@
 * [Telegram](https://t.me/Gh0st_Fighter)
 * [LinkedIn](https://www.linkedin.com/in/d-gorchanin/)
 * [VK](https://vk.com/d.gorchanin)
-***
+
 ## About me
 I am second graduate student in Belarusian-Russian university with huge willing to learn and work. I do not have any experience in work with production code, but I have worked with many small projects. Now I am working with one big personal project in the team of 4 groupmates. I have a good knowledge of C# and understanding OOP and SOLID principles, have experience in work with MS SQL Server. Also I have a little experience in work with API (ASP.NET) with using REST architecture.
-***
+
 ## Skills
 ### Hard skills
 * C#
@@ -26,7 +26,7 @@ I am second graduate student in Belarusian-Russian university with huge willing 
 * Altruism
 ### English Level
 Upper-Intermediate (B2)
-***
+
 ## Code Example
 
     namespace Model.Serialization
@@ -54,13 +54,13 @@ Upper-Intermediate (B2)
             }
         }
     }
-***
+
 ## Completed Trainings
 ### .NET Development
 EPAM training center 
 
 01/2022-05/2022
-***
+
 ## Projects
 | Name | Description | Technologies |
 |------|-------------|-------------------|
