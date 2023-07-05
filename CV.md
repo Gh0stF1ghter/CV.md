@@ -26,6 +26,7 @@ I am second graduate student in Belarusian-Russian university with huge willing 
 * Altruism
 
 ## Code Example
+
     namespace Model.Serialization
     {
         [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct)]
@@ -51,3 +52,5 @@ I am second graduate student in Belarusian-Russian university with huge willing 
             }
         }
     }
+
+    
